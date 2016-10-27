@@ -95,7 +95,7 @@
  - Twitter
  - Github
 
-**2. Increasing Dev Skills
+**2. Increasing Dev Skills**
 
  - HTML
   - Template Engines
